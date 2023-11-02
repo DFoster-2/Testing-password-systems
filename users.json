@@ -1,0 +1,22 @@
+{
+  "alice": {
+    "password": "$2b$12$t0dK5qamqXtjvo/9vuJTyu9L1TSTetaxzPgJb9fPmuql4dluCsZOq",
+    "name": "alice"
+  },
+  "hello": {
+    "password": "$2b$12$IktoORbeV6xPcFFe7F2RieExyAbKW5PF4W/7HJrz/YwFHY5MKFZMG",
+    "name": "hello"
+  },
+  "daniel": {
+    "password": "$2b$12$YhsDnHI0FJTAp/XL80BKu.j6FDmR7ibTUd7oJLi3m5fXs1lrxzJL6",
+    "name": "daniel"
+  },
+  "xander": {
+    "password": "$2b$12$yphZRyBjcp1fp/OtrXmRUuaMmvNZ8zgbv5CXze7UHwRXXAxpsNvju",
+    "name": "xander"
+  },
+  "you": {
+    "password": "$2b$12$RHtyftxEcr4amHck36mbr.8EBWFUas0hpaEkR9rmfBDbLchSxyWsa",
+    "name": "you"
+  }
+}
